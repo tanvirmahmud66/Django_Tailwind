@@ -1,4 +1,4 @@
-# Django_Tailwind
+# Django_with_Tailwind
 Django with Tailwind | Production level configuration
 
 
